@@ -7,6 +7,6 @@ Os pré-requisitos são:
 Seu projeto será avaliado de acordo com os seguintes critérios:
 1. Sua aplicação preenche os requisitos básicos;
 2. Manutenabilidade, clareza e limpeza de código, resultado funcional, entre outros fatores;
-3. Explique as decisões técnicas tomadas, as escolhas por bibliotecas e ferrramentas; 4. Fluxo da aplicação;
-Desafio AeC Automação 25. Se você tratou bem com erros e casos inesperados;
+3. Explique as decisões técnicas tomadas, as escolhas por bibliotecas e ferrramentas;
+4. Fluxo da aplicação;
 6. Se usou Webdriver; 
